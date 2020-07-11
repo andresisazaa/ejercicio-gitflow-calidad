@@ -18,17 +18,23 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+        nombre: 'Paola Andrea Posada Restrepo',
+        sede: 'Medellín',
+        github: 'paolaPosada',
+        page: './pages/paolaPosada.html'
+    },
+    {
         nombre: 'Jairo David Campaña Rosero',
         sede: 'Medellín',
         github: 'VarV0id',
         page: './pages/jairoc.html'
     },
-	{
+	  {
         nombre: 'kevin Restrepo García',
         sede: 'Medellín',
         github: 'kevinRG27',
         page: './pages/kevinrg.html'
-  },
+    },
 	  {
         nombre: 'Wilson Dario Sarrazola Ochoa',
         sede: 'Medellín',
