@@ -17,18 +17,58 @@ const LISTA_ESTUDIANTES = [
         github: 'sebasgp',
         page: './pages/sebasgp.html'
     },
-
     {
         nombre: 'Yesenia Babilonia Morales',
         sede: 'Caucasia',
         github: 'Yebm14',
         page: './pages/Yebm14.html'
     },
+    {
+        nombre: 'Carlos Alberto Sánchez',
+        sede: 'Oriente',
+        github: 'CarlosDev0',
+        page: './pages/carlossan.html'
+    },
+    {
+        nombre: 'Juan Pablo Posada',
+        sede: 'Medellín',
+        github: 'Alcalyxz',
+        page: './pages/Alcalyxz.html'
+    },
+    {
+        nombre: 'Paola Andrea Posada Restrepo',
+        sede: 'Medellín',
+        github: 'paolaPosada',
+        page: './pages/paolaPosada.html'
+    },
+    {
+        nombre: 'Jairo David Campaña Rosero',
+        sede: 'Medellín',
+        github: 'VarV0id',
+        page: './pages/jairoc.html'
+    },
+	  {
+        nombre: 'kevin Restrepo García',
+        sede: 'Medellín',
+        github: 'kevinRG27',
+        page: './pages/kevinrg.html'
+    },
+	  {
+        nombre: 'Wilson Dario Sarrazola Ochoa',
+        sede: 'Medellín',
+        github: 'sarra232',
+        page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Andrés Pino Vallejo',
+        sede: 'Medellín',
+        github: 'andrespinov',
+        page: './pages/andrespino.html'
+    },
     { 	nombre: 'Daniel Rivera Arroyave',
         sede: 'Medellín',
-        github: 'sht97',
+        github: 'Sht97',
         page: './pages/danielrive.html'
-
     },
     {
         nombre: 'Miguel Ángel Naranjo Cano',
@@ -59,5 +99,17 @@ const LISTA_ESTUDIANTES = [
         sede: "Medellín",
         github: "angiemvargas",
         page: "./pages/angiemvargas.html",
+    },
+    {
+        nombre: 'Anderson David Oliveros Naranjo',
+        sede: 'Medellín',
+        github: 'andersono99',
+        page: './pages/andersono99.html'
+    },
+    {
+        nombre: 'Duvan Arley Cano Arango',
+        sede: 'Medellín',
+        github: 'MikeStyles',
+        page: './pages/DuvanCano'
     }
 ];
