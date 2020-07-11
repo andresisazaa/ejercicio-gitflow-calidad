@@ -10,5 +10,10 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
-    }
+    },
+	nombre: 'Daniel Rivera Arroyave',
+        sede: 'Medellín',
+        github: 'sht97',
+        page: './pages/danielrive.html'
+
 ];
