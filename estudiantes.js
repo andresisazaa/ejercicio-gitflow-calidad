@@ -1,14 +1,14 @@
 const LISTA_ESTUDIANTES = [
     {
-        nombre: 'Andrés Felipe Isaza Arboleda',
+        nombre: 'Luisa Fernanda Arboleda',
         sede: 'Medellín',
-        github: 'andresisazaa',
-        page: './pages/AndresIsaza.html'
+        github: 'luffi0804',
+        page: './pages/LuisaArboleda.html'
     },
     {
-        nombre: 'Sebastian Gallego Pulgarin',
+        nombre: 'CacaoMaria',
         sede: 'Medellín',
         github: 'sebasgp',
-        page: './pages/sebasgp.html'
+        page: './pages/CacaoM.html'
     }
 ];
