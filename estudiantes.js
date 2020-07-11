@@ -11,4 +11,10 @@ const LISTA_ESTUDIANTES = [
         github: 'sebasgp',
         page: './pages/sebasgp.html'
     }
+    {
+        nombre: 'Duvan Arley Cano Arango',
+        sede: 'Medellín',
+        github: 'MikeStyles',
+        page: './pages/DuvanCano'
+    }
 ];
