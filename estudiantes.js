@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Angélica Arroyave Mendoza',
+        sede: 'Medellín',
+        github: 'am9805',
+        page: './pages/am9805.html'
     }
 ];
