@@ -12,9 +12,23 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+
         nombre: 'Cristian David Ayala Pulgarin',
         sede: 'Caucasia',
         github: 'criss091292',
         page: './pages/criss091292.html'
+    },
+    {
+        nombre: 'Santiago Escobar Casas',
+        sede: 'Medellín',
+        github: 'sescobar99',
+        page: './pages/sescobar99.html'
+    },
+  {
+        nombre: 'Camilo Andrés Mejía Posada',
+        sede: 'Medellín',
+        github: 'AzuladoToujours',
+        page: './pages/camilomp.html'
+
     }
 ];
