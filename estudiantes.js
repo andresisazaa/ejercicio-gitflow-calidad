@@ -15,7 +15,7 @@ const LISTA_ESTUDIANTES = [
 
         nombre: 'Cristian David Ayala Pulgarin',
         sede: 'Caucasia',
-        github: 'criss091292',
+        github: 'Criss091292',
         page: './pages/criss091292.html'
     },
     {
