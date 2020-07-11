@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+	{
+        nombre: 'kevin Restrepo García',
+        sede: 'Medellín',
+        github: 'kevinRG27',
+        page: './pages/kevinrg.html'
     }
 ];
