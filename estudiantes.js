@@ -17,14 +17,27 @@ const LISTA_ESTUDIANTES = [
         github: 'andrespinov',
         page: './pages/andrespino.html'
     },
+        nombre: 'Cristian David Ayala Pulgarin',
+        sede: 'Caucasia',
+        github: 'criss091292',
+        page: './pages/criss091292.html'
+    },
+    {
         nombre: 'Santiago Escobar Casas',
         sede: 'Medellín',
         github: 'sescobar99',
         page: './pages/sescobar99.html'
     },
+    {
         nombre: 'Camilo Andrés Mejía Posada',
         sede: 'Medellín',
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
+    },
+    {
+        nombre: "Angie Marcela Vargas Pardo",
+        sede: "Medellín",
+        github: "angiemvargas",
+        page: "./pages/angiemvargas.html",
     }
 ];
