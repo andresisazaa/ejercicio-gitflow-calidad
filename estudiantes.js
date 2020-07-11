@@ -75,5 +75,12 @@ const LISTA_ESTUDIANTES = [
         sede: "Medellín",
         github: "angiemvargas",
         page: "./pages/angiemvargas.html",
+    },
+    {
+        nombre: 'Anderson David Oliveros Naranjo',
+        sede: 'Medellín',
+        github: 'andersono99',
+        page: './pages/andersono99.html'
     }
 ];
+
