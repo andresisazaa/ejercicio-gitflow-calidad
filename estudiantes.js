@@ -11,4 +11,11 @@ const LISTA_ESTUDIANTES = [
         github: 'sebasgp',
         page: './pages/sebasgp.html'
     }
+    ,
+    {
+        nombre: 'Anderson David Oliveros Naranjo',
+        sede: 'Medellín',
+        github: 'andersono99',
+        page: './pages/andersono99.html'
+    }
 ];
