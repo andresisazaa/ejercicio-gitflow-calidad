@@ -21,5 +21,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
-    }
+    },
+  {
+    nombre: "Angie Marcela Vargas Pardo",
+    sede: "Medellín",
+    github: "angiemvargas",
+    page: "./pages/angiemvargas.html",
+  }
 ];
