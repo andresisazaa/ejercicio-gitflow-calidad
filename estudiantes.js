@@ -18,6 +18,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+        nombre: 'Angélica Arroyave Mendoza',
+        sede: 'Medellín',
+        github: 'am9805',
+        page: './pages/angelicaA.html'
+    },
+    {
         nombre: 'Yesenia Babilonia Morales',
         sede: 'Caucasia',
         github: 'Yebm14',
