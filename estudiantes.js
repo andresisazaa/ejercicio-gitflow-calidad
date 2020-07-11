@@ -6,7 +6,7 @@ const LISTA_ESTUDIANTES = [
         page: './pages/AndresIsaza.html'
     },
     {
-        nombre: 'Juan Estenban Ospian Escobar',
+        nombre: 'Juan Esteban Ospina Escobar',
         sede: 'Medellín',
         github: 'presi11',
         page: './pages/EstebanOspina.html'
