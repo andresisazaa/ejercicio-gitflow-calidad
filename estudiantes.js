@@ -17,6 +17,12 @@ const LISTA_ESTUDIANTES = [
         github: 'sebasgp',
         page: './pages/sebasgp.html'
     },
+    {
+        nombre: 'Jairo David Campaña Rosero',
+        sede: 'Medellín',
+        github: 'VarV0id',
+        page: './pages/jairoc.html'
+    },
 	{
         nombre: 'kevin Restrepo García',
         sede: 'Medellín',
