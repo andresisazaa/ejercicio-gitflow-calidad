@@ -24,11 +24,16 @@ const LISTA_ESTUDIANTES = [
         github: 'sescobar99',
         page: './pages/sescobar99.html'
     },
-  {
+    {
         nombre: 'Camilo Andrés Mejía Posada',
         sede: 'Medellín',
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
-
+    },
+    {
+        nombre: "Angie Marcela Vargas Pardo",
+        sede: "Medellín",
+        github: "angiemvargas",
+        page: "./pages/angiemvargas.html",
     }
 ];
