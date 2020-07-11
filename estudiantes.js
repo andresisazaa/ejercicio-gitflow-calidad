@@ -18,6 +18,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+        nombre: 'Juan Pablo Posada',
+        sede: 'Medellín',
+        github: 'Alcalyxz',
+        page: './pages/Alcalyxz.html'
+    },
+    {
         nombre: 'Paola Andrea Posada Restrepo',
         sede: 'Medellín',
         github: 'paolaPosada',
