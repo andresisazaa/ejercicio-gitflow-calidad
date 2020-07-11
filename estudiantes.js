@@ -18,6 +18,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+        nombre: 'Yesenia Babilonia Morales',
+        sede: 'Caucasia',
+        github: 'Yebm14',
+        page: './pages/Yebm14.html'
+    },
+    {
         nombre: 'Carlos Alberto Sánchez',
         sede: 'Oriente',
         github: 'CarlosDev0',
