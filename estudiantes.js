@@ -94,6 +94,12 @@ const LISTA_ESTUDIANTES = [
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
     },
+	  {
+        nombre: 'Josue Santiago Cano',
+        sede: 'Medellín',
+        github: 'santycano',
+        page: './pages/josC.html'
+    },
     {
         nombre: "Angie Marcela Vargas Pardo",
         sede: "Medellín",
@@ -113,3 +119,4 @@ const LISTA_ESTUDIANTES = [
         page: './pages/DuvanCano'
     }
 ];
+
