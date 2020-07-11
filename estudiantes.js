@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Andrés Pino Vallejo',
+        sede: 'Medellín',
+        github: 'andrespinov',
+        page: './pages/andrespino.html'
     }
 ];
