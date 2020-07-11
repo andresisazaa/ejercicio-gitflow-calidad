@@ -12,14 +12,9 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
-        nombre: 'Santiago Escobar Casas',
-        sede: 'Medellín',
-        github: 'sescobar99',
-        page: './pages/sescobar99.html'
-    },
-        nombre: 'Camilo Andrés Mejía Posada',
-        sede: 'Medellín',
-        github: 'AzuladoToujours',
-        page: './pages/camilomp.html'
+        nombre: 'Carlos Alberto Sánchez',
+        sede: 'Oriente',
+        github: 'CarlosDev0',
+        page: './pages/carlossan.html'
     }
 ];
