@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Miguel Ángel Naranjo Cano',
+        sede: 'Occidente',
+        github: 'manaranjoc',
+        page: './pages/manaranjoc.html'
     }
 ];
