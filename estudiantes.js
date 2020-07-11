@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Yesenia Babilonia Morales',
+        sede: 'Caucasia',
+        github: 'Yebm14',
+        page: './pages/Yebm14.html'
     }
 ];
