@@ -31,7 +31,7 @@ const LISTA_ESTUDIANTES = [
     },
     { 	nombre: 'Daniel Rivera Arroyave',
         sede: 'Medellín',
-        github: 'sht97',
+        github: 'Sht97',
         page: './pages/danielrive.html'
     },
     {
