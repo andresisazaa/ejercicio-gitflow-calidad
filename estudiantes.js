@@ -18,6 +18,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+        nombre: 'Carlos Alberto Sánchez',
+        sede: 'Oriente',
+        github: 'CarlosDev0',
+        page: './pages/carlossan.html'
+    },
+    {
         nombre: 'Juan Pablo Posada',
         sede: 'Medellín',
         github: 'Alcalyxz',
