@@ -17,6 +17,12 @@ const LISTA_ESTUDIANTES = [
         github: 'sebasgp',
         page: './pages/sebasgp.html'
     },
+    { 	nombre: 'Daniel Rivera Arroyave',
+        sede: 'Medellín',
+        github: 'sht97',
+        page: './pages/danielrive.html'
+
+    }.
     {
         nombre: 'Miguel Ángel Naranjo Cano',
         sede: 'Occidente',
