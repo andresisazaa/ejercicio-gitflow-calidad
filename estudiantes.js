@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Claudia Bibiana Sepulveda Cardona',
+        sede: 'Santafe de Antioquia',
+        github: 'cbibiana-sepulveda',
+        page: './pages/Bibiana.html'
     }
 ];
