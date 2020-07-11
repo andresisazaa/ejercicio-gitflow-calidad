@@ -47,13 +47,13 @@ const LISTA_ESTUDIANTES = [
         github: 'VarV0id',
         page: './pages/jairoc.html'
     },
-	  {
+    {
         nombre: 'kevin Restrepo García',
         sede: 'Medellín',
         github: 'kevinRG27',
         page: './pages/kevinrg.html'
     },
-	  {
+    {
         nombre: 'Wilson Dario Sarrazola Ochoa',
         sede: 'Medellín',
         github: 'sarra232',
@@ -65,7 +65,8 @@ const LISTA_ESTUDIANTES = [
         github: 'andrespinov',
         page: './pages/andrespino.html'
     },
-    { 	nombre: 'Daniel Rivera Arroyave',
+    {
+        nombre: 'Daniel Rivera Arroyave',
         sede: 'Medellín',
         github: 'Sht97',
         page: './pages/danielrive.html'
@@ -94,7 +95,7 @@ const LISTA_ESTUDIANTES = [
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
     },
-	  {
+    {
         nombre: 'Josue Santiago Cano',
         sede: 'Medellín',
         github: 'santycano',
