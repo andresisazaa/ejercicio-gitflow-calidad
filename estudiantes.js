@@ -18,7 +18,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
-
+        nombre: 'Miguel Ángel Naranjo Cano',
+        sede: 'Occidente',
+        github: 'manaranjoc',
+        page: './pages/manaranjoc.html'
+    },
+    {
         nombre: 'Cristian David Ayala Pulgarin',
         sede: 'Caucasia',
         github: 'Criss091292',
