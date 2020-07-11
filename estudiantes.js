@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Paola Andrea Posada Restrepo',
+        sede: 'Medellín',
+        github: 'paolaPosada',
+        page: './pages/paolaPosada.html'
     }
 ];
