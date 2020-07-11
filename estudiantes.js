@@ -21,5 +21,12 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
+    },
+	{
+        nombre: 'Josue Santiago Cano',
+        sede: 'Medellín',
+        github: 'santycano',
+        page: './pages/josC.html'
     }
+     
 ];
