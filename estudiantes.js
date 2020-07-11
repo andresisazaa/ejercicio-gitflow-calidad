@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Cristian David Ayala Pulgarin',
+        sede: 'Caucasia',
+        github: 'criss091292',
+        page: './pages/criss091292.html'
     }
 ];
