@@ -6,6 +6,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/AndresIsaza.html'
     },
     {
+        nombre: 'Juan Esteban Ospina Escobar',
+        sede: 'Medellín',
+        github: 'presi11',
+        page: './pages/EstebanOspina.html'
+    },
+    {
         nombre: 'Sebastian Gallego Pulgarin',
         sede: 'Medellín',
         github: 'sebasgp',
@@ -18,6 +24,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/manaranjoc.html'
     },
     {
+        nombre: 'Cristian David Ayala Pulgarin',
+        sede: 'Caucasia',
+        github: 'Criss091292',
+        page: './pages/criss091292.html'
+    },
+    {
         nombre: 'Santiago Escobar Casas',
         sede: 'Medellín',
         github: 'sescobar99',
@@ -28,5 +40,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'AzuladoToujours',
         page: './pages/camilomp.html'
+    },
+    {
+        nombre: "Angie Marcela Vargas Pardo",
+        sede: "Medellín",
+        github: "angiemvargas",
+        page: "./pages/angiemvargas.html",
     }
 ];
