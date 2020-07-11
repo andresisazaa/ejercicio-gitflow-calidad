@@ -15,6 +15,6 @@ const LISTA_ESTUDIANTES = [
         nombre: 'Angélica Arroyave Mendoza',
         sede: 'Medellín',
         github: 'am9805',
-        page: './pages/am9805.html'
+        page: './pages/angelicaA.html'
     }
 ];
