@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Juan Pablo Posada',
+        sede: 'Medellín',
+        github: 'Alcalyxz',
+        page: './pages/Alcalyxz.html'
     }
 ];
