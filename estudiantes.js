@@ -93,6 +93,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'andersono99',
         page: './pages/andersono99.html'
+    },
+    {
+        nombre: 'Duvan Arley Cano Arango',
+        sede: 'Medellín',
+        github: 'MikeStyles',
+        page: './pages/DuvanCano'
     }
 ];
-
