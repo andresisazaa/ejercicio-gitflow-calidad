@@ -130,6 +130,12 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'MikeStyles',
         page: './pages/DuvanCano'
+    },
+    {
+        nombre: 'Andrés Felipe Vásquez Ramírez',
+	sede: 'Medellín',
+	github: 'VasquezLab',
+	page: './pages/vasquezlab.html'
     }
 ];
 
