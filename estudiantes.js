@@ -136,6 +136,12 @@ const LISTA_ESTUDIANTES = [
 	sede: 'Medellín',
 	github: 'VasquezLab',
 	page: './pages/vasquezlab.html'
+    },
+    {
+        nombre: 'Manuela Uribe Zapata',
+        sede: 'Medellín',
+        github: 'maurza',
+        page: './pages/lamanu.html'
     }
 ];
 
