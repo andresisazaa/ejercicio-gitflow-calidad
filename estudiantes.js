@@ -133,15 +133,21 @@ const LISTA_ESTUDIANTES = [
     },
     {
         nombre: 'Andrés Felipe Vásquez Ramírez',
-	sede: 'Medellín',
-	github: 'VasquezLab',
-	page: './pages/vasquezlab.html'
+	      sede: 'Medellín',
+	      github: 'VasquezLab',
+	      page: './pages/vasquezlab.html'
     },
     {
         nombre: 'Manuela Uribe Zapata',
         sede: 'Medellín',
         github: 'maurza',
         page: './pages/lamanu.html'
-    }
+    },
+    {
+        nombre : 'Luisa Fernanda Arboleda Segura' ,
+        sede : 'Urabá' ,
+        github : 'luffi0804' ,
+        página : './pages/LuisaArboleda.html'
+     }
 ];
 
