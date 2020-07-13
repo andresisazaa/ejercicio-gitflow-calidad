@@ -18,6 +18,12 @@ const LISTA_ESTUDIANTES = [
         page: './pages/sebasgp.html'
     },
     {
+        nombre: 'Duvan Felipe Otero Sotelo',
+        sede: 'Bajo Cauca',
+        github: 'Dufeoterosoteli',
+        page: './pages/Dufeoterosoteli.html'
+    },
+  {
         nombre: 'Claudia Bibiana Sepulveda Cardona',
         sede: 'Santafe de Antioquia',
         github: 'cbibiana-sepulveda',
