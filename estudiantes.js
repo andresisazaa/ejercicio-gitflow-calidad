@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'Duvan Felipe Otero Sotelo',
+        sede: 'Bajo Cauca',
+        github: 'Dufeoterosoteli',
+        page: './pages/Dufeoterosoteli.html'
     }
 ];
