@@ -23,7 +23,7 @@ const LISTA_ESTUDIANTES = [
         github: 'Dufeoterosoteli',
         page: './pages/Dufeoterosoteli.html'
     },
-  {
+    {
         nombre: 'Claudia Bibiana Sepulveda Cardona',
         sede: 'Santafe de Antioquia',
         github: 'cbibiana-sepulveda',
@@ -139,9 +139,9 @@ const LISTA_ESTUDIANTES = [
     },
     {
         nombre: 'Andrés Felipe Vásquez Ramírez',
-	      sede: 'Medellín',
-	      github: 'VasquezLab',
-	      page: './pages/vasquezlab.html'
+        sede: 'Medellín',
+        github: 'VasquezLab',
+        page: './pages/vasquezlab.html'
     },
     {
         nombre: 'Manuela Uribe Zapata',
@@ -150,16 +150,22 @@ const LISTA_ESTUDIANTES = [
         page: './pages/lamanu.html'
     },
     {
-        nombre : 'Luisa Fernanda Arboleda Segura' ,
-        sede : 'Urabá' ,
-        github : 'luffi0804' ,
-        página : './pages/LuisaArboleda.html'
-     }
-	     {
-        nombre : 'Jose Duvan Valencia Echeverry' ,
-        sede : 'Santa Fé de Antioquia' ,
-        github : 'JoseDuvan' ,
-        página : './pages/Jose_Duvan.html'
-     }
+        nombre: 'Luisa Fernanda Arboleda Segura',
+        sede: 'Urabá',
+        github: 'luffi0804',
+        página: './pages/LuisaArboleda.html'
+    },
+    {
+        nombre: 'Jose Duvan Valencia Echeverry',
+        sede: 'Santa Fé de Antioquia',
+        github: 'JoseDuvan',
+        página: './pages/Jose_Duvan.html'
+    },
+    {
+        nombre: 'Daniel Alejandro Higuita Usuga',
+        sede: 'Medellín',
+        github: 'danielxf007',
+        page: './pages/DanielHiguita.html'
+    }
 ];
 
