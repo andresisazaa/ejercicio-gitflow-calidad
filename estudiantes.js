@@ -155,5 +155,11 @@ const LISTA_ESTUDIANTES = [
         github : 'luffi0804' ,
         página : './pages/LuisaArboleda.html'
      }
+	     {
+        nombre : 'Jose Duvan Valencia Echeverry' ,
+        sede : 'Santa Fé de Antioquia' ,
+        github : 'JoseDuvan' ,
+        página : './pages/Jose_Duvan.html'
+     }
 ];
 
